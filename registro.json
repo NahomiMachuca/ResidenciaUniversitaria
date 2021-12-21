@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"residencia"},
+{"type":"table","name":"registro","database":"residencia","data":
+[
+{"id":"1","nombre":"maria","correo":"maria@example.com","password":"$2a$10$HQw821Rk1MfEikUPOmUeNugDiHydee2rJC3SBA2D4wUIAthqWeJ5i"},
+{"id":"2","nombre":"Nicolle Triviño","correo":"nt@gmail.com","password":"$2a$10$1a65yhFVCQJW7wE36FZ0ReznH7gawa9\/EPL8UDaeAUQG5NljUojPW"},
+{"id":"3","nombre":"Nahomi Machuca","correo":"nm@gmail.com","password":"$2a$10$W5oUf7Oylia6aw\/AMxfO3.Gk.JLmIf0T9c5ZIa929VjjZwSuVmo0u"},
+{"id":"4","nombre":"Ana Gabriela Palacios Ruiz","correo":"anagp@gmail.com","password":"$2a$10$DG2hOdG\/qpEbfsUQ7Hg5.eBwRbF2h7E\/JG11xsXTtH\/po\/b\/O9Zr2"}
+]
+}
+]
